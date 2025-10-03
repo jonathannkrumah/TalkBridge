@@ -1,0 +1,8 @@
+region = "us-east-1"
+environment = "dev"
+bucket_name = "talkbridge-dev123453432"
+dynamodb_table_name = "talkbridge-chat-table"
+frontend_bucket_name = "talkbridge-frontend-app"
+dynamodb_table_name_users = "talkbridge-users-table"
+dynamodb_table_name_messages = "talkbridge-messages-table"
+dynamodb_table_name_connections = "talkbridge-connections-table"
